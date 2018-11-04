@@ -1,2 +1,4 @@
 /primes
 *~
+*.swp
+__pycache__
